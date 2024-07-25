@@ -62,11 +62,15 @@ Flutter, Android and iOS
  <img src='https://gitlab.com/maz341/eat-easy/-/raw/main/assets/screenshots/13.jpg' width='200' alt='Screenshot 4'>
   
 </div>
+
 #### Video Demo:
 
-[Video Link](https://gitlab.com/maz341/eat-easy/-/blob/main/assets/screenshots/recording.mp4)
+[Video Link](https://github.com/maz341/EatEasy/blob/main/assets/screenshots/recording.mp4)
 
-![Video Demo](https://gitlab.com/maz341/eat-easy/-/raw/main/assets/screenshots/recording.mp4)
+![Video Demo](https://github.com/maz341/EatEasy/blob/main/assets/screenshots/recording.mp4)
+
+<!-- [Video Link](https://gitlab.com/maz341/eat-easy/-/blob/main/assets/screenshots/recording.mp4) -->
+<!-- ![Video Demo](https://gitlab.com/maz341/eat-easy/-/raw/main/assets/screenshots/recording.mp4) -->
 
 ## 🔗 Links
 
